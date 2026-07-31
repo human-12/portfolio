@@ -34,7 +34,7 @@ export const PROFESSIONAL_SUMMARY = "Passionate Full Stack AI Engineer with prov
 
 export const EDUCATION: Education[] = [
   {
-    degree: 'Bachelor of Science in Computer Science',
+    degree: 'Bachelor of Science in Computer Engineering',
     school: 'University',
     period: 'Expected Graduation: 2030',
     gpa: '3.8/4.0'
